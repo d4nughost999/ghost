@@ -35,3 +35,4 @@ $cd ghost
 $python ghots.py
 ----
 $pip install -r requirements.txt
+----
