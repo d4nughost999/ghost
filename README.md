@@ -1,7 +1,8 @@
 # 🔎 Dorking Tool
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Author](https://img.shields.io/badge/Author-d4nu--ghost-green?style=for-the-badge)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=header&text=d4nughost999&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" alt="banner"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Simple+Dorking+Tool;Made+by+d4nu-ghost;For+Educational+Purposes+Only!" alt="Typing SVG" />
