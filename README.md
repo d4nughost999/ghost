@@ -1,4 +1,4 @@
-# 🔎 Dorking Tool
+#   🔎 Dorking Tool
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=header&text=d4nughost999&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" alt="banner"/>
@@ -10,14 +10,14 @@
 
 ---
 
-## 📌 Deskripsi
+##   📌 Deskripsi
 Dorking Tool sederhana berbasis Python.  
 Membantu melakukan pencarian otomatis menggunakan DuckDuckGo dengan query dork.  
 ⚠️ Hanya untuk tujuan edukasi & riset!
 
 ---
 
-## 🚀 Fitur
+##   🚀 Fitur
 - 🔍 Cari hasil dengan query dork (contoh: inurl:login)  
 - 🌍 Support search engine DuckDuckGo (aman & tanpa limit ketat)  
 - 💾 Bisa simpan hasil ke file .txt  
@@ -25,7 +25,7 @@ Membantu melakukan pencarian otomatis menggunakan DuckDuckGo dengan query dork.
 
 ---
 
-## 📥 Instalasi
+##   📥 Instalasi
 
 Clone repo ini & install dependensi:
 
@@ -42,5 +42,5 @@ $pip install -r requirements.txt
 
 
 
-## 📬 Hubungi Saya
+##   📬 Hubungi Saya
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anon_ghost_crypt)
