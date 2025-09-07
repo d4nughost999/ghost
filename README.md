@@ -26,7 +26,7 @@ Membantu melakukan pencarian otomatis menggunakan DuckDuckGo dengan query dork.
 ---
 
 ##   📥 Instalasi
-`bash
+```bash
 Clone repo ini & install dependensi:
 
 ## $git clone https://github.com/d4nughost999/ghost.git
