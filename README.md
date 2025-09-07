@@ -28,7 +28,6 @@ Membantu melakukan pencarian otomatis menggunakan DuckDuckGo dengan query dork.
 
 Clone repo ini & install dependensi:
 
-`bash
-git clone https://github.com/d4nughost999/ghost.git
-cd ghost
-pip install -r requirements.txt
+$git clone https://github.com/d4nughost999/ghost.git
+$cd ghost
+$pip install -r requirements.txt
