@@ -34,14 +34,12 @@ Membantu melakukan pencarian otomatis menggunakan DuckDuckGo dengan query dork.
 ```bash
 Clone repo ini & install dependensi:
 
-## $git clone https://github.com/d4nughost999/ghost.git
+## git clone https://github.com/d4nughost999/ghost.git
 
-## $cd ghost
+## cd ghost
 
-## $python ghots.py
-
-## $pip install -r requirements.txt
-
+## pip install -r requirements.txt
+## python ghost.py
 
 
 
