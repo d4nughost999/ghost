@@ -31,16 +31,16 @@ Membantu melakukan pencarian otomatis menggunakan DuckDuckGo dengan query dork.
 ---
 
 ##   📥 Instalasi
-```bash
+
 Clone repo ini & install dependensi:
 
 ## $git clone https://github.com/d4nughost999/ghost.git
-
+-------------------------------------------------------
 ## $cd ghost
-
+-------------------------------------------------------
 ## $pip install -r requirements.txt
-
+-------------------------------------------------------
 ## $python ghost.py
-
+-------------------------------------------------------
 
 
