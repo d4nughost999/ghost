@@ -17,6 +17,11 @@ Membantu melakukan pencarian otomatis menggunakan DuckDuckGo dengan query dork.
 
 ---
 
+## 📬 Hubungi Saya
+## [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anon_ghost_crypt)
+
+---
+
 ##   🚀 Fitur
 - 🔍 Cari hasil dengan query dork (contoh: inurl:login)  
 - 🌍 Support search engine DuckDuckGo (aman & tanpa limit ketat)  
@@ -40,7 +45,3 @@ Clone repo ini & install dependensi:
 
 
 
-
-
-## 📬 Hubungi Saya
-## [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anon_ghost_crypt)
