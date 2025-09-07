@@ -29,5 +29,9 @@ Membantu melakukan pencarian otomatis menggunakan DuckDuckGo dengan query dork.
 Clone repo ini & install dependensi:
 
 $git clone https://github.com/d4nughost999/ghost.git
+----
 $cd ghost
+----
+$python ghots.py
+----
 $pip install -r requirements.txt
