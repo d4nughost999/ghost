@@ -18,15 +18,15 @@ Membantu melakukan pencarian otomatis menggunakan DuckDuckGo dengan query dork.
 
 ## 🚀 Fitur
 - 🔍 Cari hasil dengan query dork (contoh: inurl:login)  
-- 🌍 Support search engine DuckDuckGo (aman & tanpa limit ketat)  
-- 💾 Bisa simpan hasil ke file .txt  
+- 🌍 Support search engine DuckDuckGo  
+- 💾 Simpan hasil ke file .txt  
 - 🖼️ Banner ASCII + branding author (d4nu-ghost)  
 
 ---
 
-## 📥 Instalasi & Cara Menjalankan
-Clone repo ini & install dependensi:
+## 📥 Instalasi
+Clone repo & install dependensi:
 `bash
-git clone https://github.com/d4nughost999/dorker.git
-cd dorker
+git clone https://github.com/d4nughost999/ghost.git
+cd ghost
 pip install -r requirements.txt
